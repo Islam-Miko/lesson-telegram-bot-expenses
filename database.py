@@ -37,3 +37,4 @@ class PysonDB:
 
 
 category_db = PysonDB("categories.json")
+expense_db = PysonDB("expenses.json")
