@@ -1,0 +1,10 @@
+1) basic commands handler
+2) create buttons boilerplate
+!!!) pysondb docs (!!!)
+3) create category
+	2.1) write class for db interaction
+	2.2) write FSMclass
+4) command for category list
+	4.1) $-> 2.1 db interaction
+	4.2) inline button boilerplate
+
